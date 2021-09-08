@@ -2,7 +2,10 @@
 <h3 align="left">Tech Leader | Desenvolvedor Sênior</h3>
 
 
-<p></p>
+<blockquote>Profissional na área de TI há mais de dez anos no mercado. Possuindo experiência em desenvolvimento
+e análise de sistemas de diversas áreas como: Gestão Empresarial (ERP), Relacionamento com Cliente
+(CRM), Seguros para Automóveis, Callcenter e Automação Comercial e etc.</blockquote>
+
 Linkedin: https://www.linkedin.com/in/ricardo-freitas-araujo/
 
 
