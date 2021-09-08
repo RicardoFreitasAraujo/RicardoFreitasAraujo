@@ -2,19 +2,22 @@
 <h3 align="left">Tech Leader | Desenvolvedor Sênior</h3>
 
 
+<p></p>
+Linkedin: https://www.linkedin.com/in/ricardo-freitas-araujo/
 
+
+<h3>Hard Skills</h3>
 <p>Languages:</p>
 <p>
 <img src="net.png" height="60" width="60" alt=".Net"/>
 <img src="nodejs.png" height="60" width="60"/>
-<img src="nodejs.png" height="60" width="60"/>
-<img src="html5.png" height="60" width="60"/>
+<img src="html.png" height="60" width="60"/>
+<img src="css.png" height="60" width="60"/>
 <img src="javascript.png" height="60" width="60"/>
 <img src="typescript.png" height="60" width="60"/>
-<img src="css.png" height="60" width="60"/>
+<img src="react.png" height="60" width="60"/>
 <img src="angular.png" height="60" width="60"/>  
 </p>
-
 
 <p>Cloud and Infrastructure:</p>
 <p>
@@ -32,6 +35,6 @@
 
 
 
-Linkedin: https://www.linkedin.com/in/ricardo-freitas-araujo/
 
-Hard Skills
+
+
